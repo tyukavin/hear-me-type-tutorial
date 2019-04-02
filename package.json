@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "hear-me-type-tutorial",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Play a sound for every keyboard key that press",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/tyukavin/hear-me-type-tutorial",
   "keywords": [
     "Electron",
     "quick",
@@ -14,7 +14,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Dan Tyukavin",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^4.1.3"
